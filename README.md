@@ -1,4 +1,4 @@
-# Hi there 👋🏻  I'm Jesús Silva Méndez
+# Hi there 👋🏻,  I'm Jesús Silva Méndez
 ### A passionate frontend developer from Spain. I currently program in Flutter with Dart and React with Typescript, although I have also programmed in Angular with Typescript.
 
 🔭   I’m currently working on [ghop](https://ghop.es)
