@@ -7,4 +7,4 @@
 
 📫   How to reach me **soy@jesussilva.es**
 
-💼   Connect with me: [LinkedIn]([https://ghop.es](https://linkedin.com/in/jesus-silva-mendez)https://linkedin.com/in/jesus-silva-mendez)
+💼   Connect with me: [LinkedIn](https://linkedin.com/in/jesus-silva-mendez)
