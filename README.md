@@ -3,15 +3,15 @@
 
 I currently program in **Flutter** with **Dart** and **React** with **TypeScript**, and I also have experience in **Angular** with **TypeScript**.
 
-🔭   I’m currently working at [Manifiesto](https://manifiesto.biz)
+🔭&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [Manifiesto](https://manifiesto.biz)
 
-🧠   I have experience in **Angular**, **React** both with **TypeScript**
+🧠&nbsp;&nbsp;&nbsp;&nbsp;I have experience in **Angular**, **React** both with **TypeScript**
 
-🌱   I’m currently learning **Dart & Flutter**
+🌱&nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning **Dart & Flutter**
 
-📫   How to reach me: **[soy@jesussilva.es](mailto:soy@jesussilva.es)**
+📫&nbsp;&nbsp;&nbsp;&nbsp;How to reach me: **[soy@jesussilva.es](mailto:soy@jesussilva.es)**
 
-💼   Connect with me on **[LinkedIn](https://linkedin.com/in/jesus-silva-mendez/)**
+💼&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on **[LinkedIn](https://linkedin.com/in/jesus-silva-mendez/)**
 
 ---
 
