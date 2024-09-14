@@ -1,7 +1,7 @@
 # Hi there 👋🏻, I'm Jesús Silva Méndez
 ### A passionate **Frontend Developer** from Spain
 
-I currently program in **Flutter** with **Dart** and **React** with **TypeScript**, and I also have experience in **Angular** with **TypeScript**.
+I currently program in **React** with **TypeScript** and **Flutter** with **Dart**, and I also have experience in **Angular** with **TypeScript**.
 
 🔭&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [Onum](https://onum.com)
 
@@ -17,7 +17,9 @@ I currently program in **Flutter** with **Dart** and **React** with **TypeScript
 
 ### Experience
 
-**Manifiesto** | *Mar. 2024 - present*
+**Onum** | *Sep. 2024 - present*
+
+**Manifiesto** | *Mar. 2024 - Jun. 2024*
 - Developing a native application in Flutter and Dart for a banking sector client and an insurance company.
 - Reviewing designs in Figma and implementing them in the application.
 - Analyzing designs for reusable components to integrate them into a UI kit.
