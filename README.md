@@ -3,7 +3,7 @@
 
 I currently program in **Flutter** with **Dart** and **React** with **TypeScript**, and I also have experience in **Angular** with **TypeScript**.
 
-🔭&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [Manifiesto](https://manifiesto.biz)
+🔭&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [Onum](https://onum.com)
 
 🧠&nbsp;&nbsp;&nbsp;&nbsp;I have experience in **Angular**, **React** both with **TypeScript**
 
